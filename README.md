@@ -6,7 +6,7 @@ base notebook docker file with scientify python stack already pre installed to b
 make build
 ```
 
-**pushing to hte hub**
+**pushing to the hub**
 ```
 make push
 ```
